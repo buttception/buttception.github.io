@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Trigger"
+excerpt: "3D Mecha shooter inspired by Armored Core<br/><img src='/images/616x353.png'>"
 collection: portfolio
 ---
 
